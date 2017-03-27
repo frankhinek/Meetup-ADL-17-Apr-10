@@ -1,0 +1,3 @@
+[submodule "Autopilot"]
+	path = Autopilot
+	url = https://github.com/frankhinek/Autopilot-TensorFlow.git
